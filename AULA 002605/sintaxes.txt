@@ -1,0 +1,6 @@
+'===' - Verifica o valor e a propriedade do conteúdo
+'!==' - Verifica o valor e a propriedade do conteúdo
+'==' - Iguala o conteúdo
+'!=' - Diferete o conteúdo
+'&&' = And
+'||' = Or
