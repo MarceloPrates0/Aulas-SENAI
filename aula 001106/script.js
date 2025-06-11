@@ -18,5 +18,5 @@ function gerarTabuada() {
 }
 
 // A função gerarTabuada será executada quando clicar no botão. 
-const gerarBotao = document.getElementById(' ')
+const gerarBotao = document.getElementById('gerarBotao')
 gerarBotao.addEventListener('click', gerarTabuada)
